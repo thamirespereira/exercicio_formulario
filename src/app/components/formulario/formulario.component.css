@@ -1,0 +1,27 @@
+.conteiner{
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.titulo{
+  width: 26%;
+  margin: 10px;
+}
+
+span{
+  padding-left: 120px;
+}
+
+form{
+  text-align: center;
+  width: 50%;
+}
+
+mat-form-field{
+  width: 400px;
+}
+
+table{
+  margin: 50px;
+}
